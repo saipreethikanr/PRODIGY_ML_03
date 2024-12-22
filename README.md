@@ -1,42 +1,38 @@
-# Support Vector Machine (SVM) Implementation 🎯
+# Cat vs. Dog Classification using SVM 🐱🐶
 
-This project demonstrates the implementation of a **Support Vector Machine (SVM)** model for a classification task using Python. The notebook provides a step-by-step guide to data preprocessing, model training, and evaluation.
+This project implements a **Support Vector Machine (SVM)** to classify images of cats and dogs. Using image data, the model identifies whether the input belongs to a cat or a dog. 
 
 
 
 ## What it is
 
-A **Jupyter Notebook** that explores the application of the SVM algorithm in machine learning for classification problems. This project is aimed at understanding how SVM can separate data points into distinct classes with the use of hyperplanes.
+A **Jupyter Notebook** demonstrating how SVM can be applied to solve a binary classification problem using image data. This project is designed as an introductory exercise in machine learning for image classification.
 
 ---
 
 ## Features
 
-- Data preprocessing (e.g., handling missing values, scaling features)
-- Implementation of SVM using `scikit-learn`
-- Hyperparameter tuning with different kernel functions
-- Visualization of decision boundaries
-- Performance evaluation using metrics like accuracy, precision, and recall
+- Preprocessing image data for machine learning  
+- Training an SVM model to classify images of cats and dogs  
+- Tuning hyperparameters like kernel type and regularization  
+- Evaluating model performance with accuracy and confusion matrices  
 
 ---
 
 ## Learning Points
 
-- Understanding the mathematical foundation of SVM
-- Experimenting with linear and non-linear kernels
-- Visualizing classification results
-- Evaluating model performance with various metrics
+- Understanding SVM for binary classification  
+- Handling and preprocessing image datasets  
+- Experimenting with linear and non-linear kernels  
+- Visualizing the results of a classification task  
 
 ---
 
 ## Technologies Used
 
-- **Python**
-- **Jupyter Notebook**
-- **scikit-learn**
-- **Matplotlib**
-- **Pandas**
-- **NumPy**
-
----
+- **Python**  
+- **Jupyter Notebook**  
+- **scikit-learn**  
+- **NumPy**  
+- **Pandas**  
 
